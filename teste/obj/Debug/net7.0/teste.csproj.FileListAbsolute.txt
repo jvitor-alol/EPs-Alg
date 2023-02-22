@@ -1,0 +1,15 @@
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\teste\bin\Debug\net7.0\teste.exe
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\teste\bin\Debug\net7.0\teste.deps.json
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\teste\bin\Debug\net7.0\teste.runtimeconfig.json
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\teste\bin\Debug\net7.0\teste.dll
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\teste\bin\Debug\net7.0\teste.pdb
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\teste\obj\Debug\net7.0\teste.csproj.AssemblyReference.cache
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\teste\obj\Debug\net7.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\teste\obj\Debug\net7.0\teste.AssemblyInfoInputs.cache
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\teste\obj\Debug\net7.0\teste.AssemblyInfo.cs
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\teste\obj\Debug\net7.0\teste.csproj.CoreCompileInputs.cache
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\teste\obj\Debug\net7.0\teste.dll
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\teste\obj\Debug\net7.0\refint\teste.dll
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\teste\obj\Debug\net7.0\teste.pdb
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\teste\obj\Debug\net7.0\teste.genruntimeconfig.cache
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\teste\obj\Debug\net7.0\ref\teste.dll
