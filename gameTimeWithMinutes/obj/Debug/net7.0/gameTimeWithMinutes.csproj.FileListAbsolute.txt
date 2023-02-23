@@ -1,0 +1,15 @@
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gameTimeWithMinutes\bin\Debug\net7.0\gameTimeWithMinutes.exe
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gameTimeWithMinutes\bin\Debug\net7.0\gameTimeWithMinutes.deps.json
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gameTimeWithMinutes\bin\Debug\net7.0\gameTimeWithMinutes.runtimeconfig.json
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gameTimeWithMinutes\bin\Debug\net7.0\gameTimeWithMinutes.dll
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gameTimeWithMinutes\bin\Debug\net7.0\gameTimeWithMinutes.pdb
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gameTimeWithMinutes\obj\Debug\net7.0\gameTimeWithMinutes.csproj.AssemblyReference.cache
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gameTimeWithMinutes\obj\Debug\net7.0\gameTimeWithMinutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gameTimeWithMinutes\obj\Debug\net7.0\gameTimeWithMinutes.AssemblyInfoInputs.cache
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gameTimeWithMinutes\obj\Debug\net7.0\gameTimeWithMinutes.AssemblyInfo.cs
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gameTimeWithMinutes\obj\Debug\net7.0\gameTimeWithMinutes.csproj.CoreCompileInputs.cache
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gameTimeWithMinutes\obj\Debug\net7.0\gameTimeWithMinutes.dll
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gameTimeWithMinutes\obj\Debug\net7.0\refint\gameTimeWithMinutes.dll
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gameTimeWithMinutes\obj\Debug\net7.0\gameTimeWithMinutes.pdb
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gameTimeWithMinutes\obj\Debug\net7.0\gameTimeWithMinutes.genruntimeconfig.cache
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gameTimeWithMinutes\obj\Debug\net7.0\ref\gameTimeWithMinutes.dll
