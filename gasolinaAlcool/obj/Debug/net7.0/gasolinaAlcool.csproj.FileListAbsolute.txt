@@ -1,0 +1,15 @@
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gasolinaAlcool\bin\Debug\net7.0\gasolinaAlcool.exe
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gasolinaAlcool\bin\Debug\net7.0\gasolinaAlcool.deps.json
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gasolinaAlcool\bin\Debug\net7.0\gasolinaAlcool.runtimeconfig.json
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gasolinaAlcool\bin\Debug\net7.0\gasolinaAlcool.dll
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gasolinaAlcool\bin\Debug\net7.0\gasolinaAlcool.pdb
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gasolinaAlcool\obj\Debug\net7.0\gasolinaAlcool.csproj.AssemblyReference.cache
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gasolinaAlcool\obj\Debug\net7.0\gasolinaAlcool.GeneratedMSBuildEditorConfig.editorconfig
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gasolinaAlcool\obj\Debug\net7.0\gasolinaAlcool.AssemblyInfoInputs.cache
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gasolinaAlcool\obj\Debug\net7.0\gasolinaAlcool.AssemblyInfo.cs
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gasolinaAlcool\obj\Debug\net7.0\gasolinaAlcool.csproj.CoreCompileInputs.cache
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gasolinaAlcool\obj\Debug\net7.0\gasolinaAlcool.dll
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gasolinaAlcool\obj\Debug\net7.0\refint\gasolinaAlcool.dll
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gasolinaAlcool\obj\Debug\net7.0\gasolinaAlcool.pdb
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gasolinaAlcool\obj\Debug\net7.0\gasolinaAlcool.genruntimeconfig.cache
+D:\dataBackups\Documents\SENAC 2022-2025\Módulos\1º Semestre\2204-ALGORITMOS E PROGRAMAÇÃO I\Conteúdo\EPs\gasolinaAlcool\obj\Debug\net7.0\ref\gasolinaAlcool.dll
