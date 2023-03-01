@@ -8,7 +8,7 @@ internal class Program
             Console.WriteLine("Vale a pena a gasolina");
         }else if (razaoReal < razao){
                 Console.WriteLine("Vale a pena o álcool");
-            } else Console.WriteLine("Tanto faz abastecer com um ou outro");
+        } else Console.WriteLine("Tanto faz abastecer com um ou outro");
     }
     public static void Main(string[] args)
     {
@@ -21,9 +21,9 @@ internal class Program
             Console.Write("Insira o preço do álcool: R$ ");
             float alcool = float.Parse(Console.ReadLine());
 
-            float razaoReal = alcool / gasolina;
+            //float razaoReal = alcool / gasolina;
 
-            maiorMenor(razaoReal);
+            maiorMenor(alcool / gasolina);
 
             Console.Write("Deseja iniciar outro cálculo? [S/N]: ");
             simNao = Console.ReadLine();
