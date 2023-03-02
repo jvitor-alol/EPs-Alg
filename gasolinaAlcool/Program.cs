@@ -12,7 +12,7 @@ internal class Program
     }
     public static void Main(string[] args)
     {
-        string simNao = "";
+        string repete = "";
         
         do{
             Console.Clear();
@@ -26,11 +26,11 @@ internal class Program
             maiorMenor(alcool / gasolina);
 
             Console.Write("Deseja iniciar outro cálculo? [S/N]: ");
-            simNao = Console.ReadLine();
-            while (simNao != "s" & simNao != "S" & simNao != "n" & simNao != "N"){
+            repete = Console.ReadLine().ToLower();
+            while (repete != "s" & repete != "n"){
                 Console.WriteLine("Valor inválido, insira novamente");
-                simNao = Console.ReadLine();
+                repete = Console.ReadLine().ToLower();
             }
-        } while (simNao == "s" | simNao == "S");
+        } while (repete.Equals("s"));
     }
 }
